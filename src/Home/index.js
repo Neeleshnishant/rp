@@ -102,7 +102,7 @@ class Home extends Component {
     return (
       <MainContainer>
         <ScoreView score={score} />
-        <h1>errssdasd</h1>
+        <button>ewfwesdf</button>
         <RulesView>
           <Popup
             modal
