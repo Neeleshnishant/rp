@@ -102,14 +102,7 @@ class Home extends Component {
     return (
       <MainContainer>
         <ScoreView score={score} />
-        <GameResults
-          choicesList={choicesList}
-          text={text}
-          isShow={isShow}
-          newArray={newArray}
-          checkResult={this.checkResult}
-          restartGame={this.restartGame}
-        />
+        <P>ss</P>
         <RulesView>
           <Popup
             modal
